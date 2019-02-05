@@ -8,5 +8,5 @@
  
 ### [Applied Text Mining in Python  (4 Week)](https://github.com/slalit360/Applied-Data-Science-with-Python-University-of-Michigan/tree/master/Applied%20Text%20Mining%20in%20Python)
 
-### Applied Social Network Analysis in Python  (4 Week)
+### [Applied Social Network Analysis in Python  (4 Week)](https://github.com/slalit360/Applied-Data-Science-with-Python-University-of-Michigan/tree/master/Applied%20Social%20Network%20Analysis%20in%20Python)
 
