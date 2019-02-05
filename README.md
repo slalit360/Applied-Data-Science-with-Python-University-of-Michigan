@@ -10,3 +10,4 @@
 
 ### [Applied Social Network Analysis in Python  (4 Week)](https://github.com/slalit360/Applied-Data-Science-with-Python-University-of-Michigan/tree/master/Applied%20Social%20Network%20Analysis%20in%20Python)
 
+## [Certificate](https://github.com/slalit360/Applied-Data-Science-with-Python-University-of-Michigan/blob/master/Coursera%20WPMRHYDEC5YV.pdf)
